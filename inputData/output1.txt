@@ -1,0 +1,15 @@
+Symbol	Frequency	Code
+------	---------	----
+A	4        	0
+B	2        	10
+C	1        	110
+D	1        	111
+
+Original string:
+BAACABAD
+Encoded string:
+10001100100111
+
+The original string requires 8 bytes.
+The encoded string requires 2 bytes.
+Difference in space required is 75%.

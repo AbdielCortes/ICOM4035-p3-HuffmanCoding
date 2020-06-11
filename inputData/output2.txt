@@ -1,0 +1,27 @@
+Symbol	Frequency	Code
+------	---------	----
+ 	7        	111
+a	4        	000
+e	4        	001
+f	3        	1101
+m	2        	1100
+i	2        	1010
+t	2        	1011
+s	2        	1001
+h	2        	1000
+n	2        	0110
+x	1        	01001
+l	1        	01000
+u	1        	01011
+r	1        	01010
+p	1        	01111
+o	1        	01110
+
+Original string:
+this is an example of a huffman tree
+Encoded string:
+101110001010100111110101001111000011011100101001000110001111010000011110111011011110001111000010111101110111000000110111101101010001001
+
+The original string requires 36 bytes.
+The encoded string requires 17 bytes.
+Difference in space required is 52.78%.
