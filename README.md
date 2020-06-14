@@ -81,6 +81,6 @@ string takes up 67% less space than the original string.
 
 To read up more about Huffman Coding, you can visit the following web articles:
 
-Wikipedia: https://en.wikipedia.org/wiki/Huffman_coding#:~:text=In%20computer%20science%20and%20information,used%20for%20lossless%20data%20compression.&text=The%20output%20from%20Huffman%27s%20algorithm,a%20character%20in%20a%20file).
+Wikipedia: https://en.wikipedia.org/wiki/Huffman_coding#:~:text=In%20computer%20science%20and%20information,used%20for%20lossless%20data%20compression.&text=The%20output%20from%20Huffman%27s%20algorithm,a%20character%20in%20a%20file
 
 GeeksforGeeks: https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
